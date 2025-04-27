@@ -63,7 +63,7 @@ Execute the provided SQL queries step-by-step to explore and analyze the data.
 📢 Author
 Your Name (replace with your real name or GitHub username)
 
-GitHub Profile: [your-github-link]
+GitHub Profile: abhi88377
 
 📌 Note
 This project is purely for learning and practicing SQL analytical skills using real-world-style music data.
