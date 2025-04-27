@@ -61,7 +61,7 @@ USE db;
 Execute the provided SQL queries step-by-step to explore and analyze the data.
 
 📢 Author
-Your Name (replace with your real name or GitHub username)
+Abishekh kumar
 
 GitHub Profile: abhi88377
 
